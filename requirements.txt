@@ -1,0 +1,5 @@
+Django==1.7.10
+six>=1.4.0
+Mezzanine==4.0.1
+stripe==1.18.0
+django-bootstrap3
